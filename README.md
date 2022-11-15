@@ -1,1 +1,0 @@
-# freenetthaivpn.github.io
