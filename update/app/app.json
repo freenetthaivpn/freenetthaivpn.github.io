@@ -1,8 +1,22 @@
-{
-  "message_app_en": "What\u0027s new !\n\nBug fixes\n -Fix the security of the file update system\n -About security in file server storage\n -Fixed the system for adding time and then losing time\n - Added a system showing the number of connections to each server.\n -App optimization menu\n -Completely fixed the .ovpn file import system.\n \n Please note, this version will only come with new systems.\n And the file update system will be updated and can only be used with this version and above.  and below this version stops supporting the file update system.\n The file server will no longer be available.  Please update as soon as possible.",
-  "message_app_my": "ဘာထူးသလဲ !\n\nအမှားပြင်ဆင်ချက်များ\n - ဖိုင်အပ်ဒိတ်စနစ်၏လုံခြုံရေးကိုပြုပြင်ပါ။\n - ဖိုင်ဆာဗာသိုလှောင်မှုတွင်လုံခြုံရေးအကြောင်း\n - အချိန်ထည့်၍ အချိန်ဆုံးရှုံးခြင်းအတွက် စနစ်အား ပြင်ဆင်ပါ။\n - ဆာဗာတစ်ခုစီသို့ ချိတ်ဆက်မှုအရေအတွက်ကို ပြသသည့်စနစ်တစ်ခုကို ထည့်သွင်းခဲ့သည်။\n -App optimization မီနူး\n - .ovpn ဖိုင်တင်သွင်းမှုစနစ်အား အပြီးအပိုင်ပြင်ဆင်ထားသည်။\n\n ကျေးဇူးပြု၍ သတိပြုပါ၊ ဤဗားရှင်းသည် စနစ်အသစ်များဖြင့်သာ ထွက်လာပါမည်။\n ဖိုင်အပ်ဒိတ်စနစ်သည် အပ်ဒိတ်လုပ်မည်ဖြစ်ပြီး ဤဗားရှင်းနှင့် အထက်တွင်သာ အသုံးပြုနိုင်သည်။  နှင့် ဤဗားရှင်းထက်နိမ့်သော ဖိုင်အပ်ဒိတ်စနစ်ကို ပံ့ပိုးမပေးတော့ဘဲ၊ ဖိုင်ဆာဗာကို အသုံးပြုနိုင်တော့မည် မဟုတ်ပါ၊ ကျေးဇူးပြု၍ အမြန်ဆုံး အပ်ဒိတ်လုပ်ပါ။",
-  "message_app_th": "มีอะไรใหม่ !\n\nแก้ไขข้อบกพร่อง\n-แก้ไขความปลอดภัยระบบอัพเดทไฟล์\n-เรื่องความปลอดภัยในการจัดเก็บไฟล์เซิร์ฟเวอร์\n-แก้ไขระบบเพิ่มเวลาแล้วเวลาหาย\n-เพิ่มระบบแสดงจำนวนการเชื่อมต่อแต่ละเซิร์ฟเวอร์\n-เมนูเพิ่มประสิทธิภาพแอป\n-แก้ไขระบบนำเข้าไฟล์ .ovpn โดยสมบูรณ์\n\nโปรดทราบ เวอร์ชั่นนี้จะมากับระบบใหม่เท่านั้น\nและระบบอัพเดทไฟล์จะอัพเดทและใช้ได้กับเวอร์ชั่นนี้ขึ้นไปเท่านั้น และต่ำกว่าเวอร์ชั่นนี้เลิกซัพพอร์ตระบบอัพเดทไฟล์ \nจะไม่สามารถใช้ไฟล์เซิฟเวอร์ได้อีกต่อไป โปรดอัพเดทด่วนที่สุด",
-  "link_app": "play.google.com/store/apps/details?id\u003dworldvpn.worldvpn.appvpn",
-  "last_version_app": "1.0.0",
-  "current_version": "1"
-}
+FNeSBFUTgpY03mYpFLa6/OxkvoMechw+GAgIVJ3ltIgVfrv8Sy0E1f8qQgAIKSHvg0aVd0g0ABg1
+ThaMkQFR5jgH1bcGCpMBMdlCsmKUPNI4k08GtyBB2CedfBELpbuOvSKU+WAD3r4nwKOvi1HcfWis
+OUwzN758UWnI+j6W49ruXVt2F/HlXs4+n0R8I/K6CjtbMaVVR2CDPxgCO+ac2s+u4CPRj9M6u6mh
+qOYFWboz3/HLt8iUO6LFsRtuyFeRBbWHg8bhBCtuWeKAYr5tI5XA09cLmEHkqtBjnB72U+/ObWoS
+qGGIr6xSrEi7MZcSnJUWXRD4zYnwRPZDy0WQlre0GpvvbHpb6rXPmt2HHJT5EciyahxdYwx2/IAD
+zzLc/xUBhsFOpi3NAoxZv2O0pqyMkILzuLvOpy+XM19ymBpGiGLDDMocDOYCknelZZzqz6gfoaT1
+wDyJIwdOMTGPQVbqezqe9tm91BfWutzUoVETq3Ut727nCtaA/d4TQ1Koq8HfaNpp045jK+rZlkL1
+nOOPW/VOqcYAnlJD3WDmvXDt62i28acwGb3iHGtg8WWqRuQZCElW3pS9aTtAlMH26KaytZUGEGIh
+rLS3K6QENrSNMuW7S9VD2Qz/YHlV+kOmBsxAOp5s1fpcPfMDG4wsgHaEgQlhAWvGyhucaA71g3G5
+V6/j5LADMX45DvowAe8MlyIjbP00tjlCvy2nC1qV5JLAg1Dlh/xDfomPHAu2+u2z+WWNHuedi8/5
+g3fcvcMu8QCjy1mqx70AP+SwqorWNU+AlKgpdRERw018W2HWVzcHMVe8lM0TFNS+/fQXwSHlldyT
+wf1gGhBHGvbOEBy9AiOIs88+U/vRANtdIYTBgnsvzvB20ZDXzgTuJoPmIJwPHV+CmiCOYr/Ach9m
+noIBA44eaODov1vBX4Q23R10Ru1apPyz50JfJbSysXaYq8ED5y9+GQDcSGio8khj3Bx3SWOpyKTb
+lMD/1MOU1vInHJQjETR8pTIiaJL069gJzljuYhXlzvE9fUWylIBuL7g1PIk4Y9nAxFP9owHZGLsb
+2w2Sl+/UfkTlKgOn797qS/Auy3+7nVr0fZmto6vgYmhAo/t05GIJCwHPLa6LIfbUr9buCIXBIhrZ
+KK+PnGvEzFm06XC2Xs1tU0QYUlQF/Zm9KTY/Hex0T6HsaG1VIzWZt4CpjswxlSraTjuwu5Crrro2
+SyQpt8C3l2LFWhYjJExHwTjV/gHVmurVGfc+WCXG6TqkRxJgA1+agxF8xjZ5eaNJQCPq9fNc4Xw3
+mJV0BRsyljZweHBBunx9uqFF/Bd39H66ZHV8coutsYE6b4eJQ53OXhbV3Q2utuBI0SIVoZlFDyl3
+0U4td3mATeFOYzzDtMNlI2ITNGzRrEXaAEaTIM5oXojg3exe5EPevCn9HQK1IdRsQYGNJj+AiaAR
+VeIZUOVO17H16nff7XIjHbJ8eRfqD76Gc+XuRqj2xdVSiNiF3Cj2Bt5z2qJ9Fjku+aZlnBJ+1aqS
+8g8GlhziuvvrWr5yK94A9/Az8LSmDrLctFHZpz/ZPXOaySsDnBNOSMNDquvKsStsIFtaH5yjfHbg
+4iAU4ZyWbbrKG2odUvlDjSLmAhUZtwwWWt1hpK6McH/PBgQ=
